@@ -6,7 +6,6 @@ Could the applicant resolve issues in the easiest way?
 ## 2. Private
 Does he understand access modifiers and errors?
 
-
 ## 3. Abstract
 Does he understand abstract methods, usage, errors?
 
